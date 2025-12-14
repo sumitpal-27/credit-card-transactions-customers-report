@@ -86,3 +86,10 @@ refer to the dedicated insights document:
 #### 🔐 Data & privacy note
 This repo includes **sample** data only. Full production datasets are not published here due to privacy. Contact me privately for controlled access if required.
 
+---
+
+## Copyright Notice
+
+Copyright (c) 2025 Sumit Pal. All Rights Reserved.
+
+This project is not licensed for external distribution, modification, or commercial use without express written permission from the copyright holder.
