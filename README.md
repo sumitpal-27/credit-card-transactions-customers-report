@@ -40,10 +40,11 @@ credit-card-transactions-customers-report/
 │   ├── credit_card_dashboard.pbix   # Power BI report file
 │   ├── transactions_dashboard.png   # Transactions dashboard preview
 │   ├── customers_dashboard.png      # Customer dashboard preview
-│   ├── insights.md                  # Business insights & recommendations
+│   ├── insights.md                  # Business insights & decision-focused findings
 │
 ├── README.md                        # Project overview, workflow, and navigation
 ```
+---
 
 ## 🖼️ Key Dashboards
 ### Credit Card Transaction Report
@@ -52,6 +53,8 @@ credit-card-transactions-customers-report/
 
 ### Credit Card Customer Report
 ![Customer Report](reports/customers_dashboard.png)
+
+--- 
 
 ## 🔎 High-Level Insights
 - Blue card category contributes the highest revenue (~47M)
@@ -64,6 +67,15 @@ credit-card-transactions-customers-report/
 - Run regional pilots in TX/NY/CA with merchant offers.  
 - Incentivize chip usage (targeted cashback) to shift channel mix.  
 - Improve 30-day activation with onboarding incentives.
+
+### 📘 Detailed Business Insights
+
+For a deeper breakdown of trends, KPIs, and business-focused observations,  
+refer to the dedicated insights document:
+
+➡️ **[View detailed insights & recommendations](reports/insights.md)**
+
+---
 
 ## ▶️ Files to check first (for reviewers)
 1. reports/insights.md  — quick business summary & actions
