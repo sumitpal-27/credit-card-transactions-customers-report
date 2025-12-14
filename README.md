@@ -30,14 +30,5 @@ This project analyzes credit card transactions and customer demographics using
 - Businessman and Graduate segments generate the highest revenue
 - Q4 shows peak revenue and transaction count
 
-➡️ Detailed insights available in [Insights Report](insights/insights.md)
-
-## Repository Structure
-- `/sql` – Database creation and data import scripts  
-- `/powerbi` – Power BI report files  
-- `/images` – Dashboard screenshots  
-- `/insights` – Detailed business insights  
-- `/data` – Sample datasets only  
-
 ## Note
 Full datasets are not included due to data privacy.
