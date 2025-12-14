@@ -45,9 +45,10 @@ credit-card-transactions-customers-report/
 ├── README.md                        # Project overview, workflow, and navigation
 ```
 
-## Key Dashboards
+## 🖼️ Key Dashboards
 ### Credit Card Transaction Report
 ![Transaction Report](reports/transactions_dashboard.png)
+
 
 ### Credit Card Customer Report
 ![Customer Report](reports/customers_dashboard.png)
@@ -58,21 +59,18 @@ credit-card-transactions-customers-report/
 - Businessman and Graduate segments generate the highest revenue
 - Q4 shows peak revenue and transaction count
 
-### Strategic Recommendations**
+### 🎯 Strategic Recommendations
 - Prioritize retention & upsell for Blue/Silver cards.  
 - Run regional pilots in TX/NY/CA with merchant offers.  
 - Incentivize chip usage (targeted cashback) to shift channel mix.  
 - Improve 30-day activation with onboarding incentives.
 
 ## ▶️ Files to check first (for reviewers)
-1. reports/insights.md — quick business summary & actions
-2. reports/transactions_dashboard.png — transaction visuals
-3. sql-queries/1_create_tables.sql — schema & field definitions
-4. datasets/ — sample CSVs to reproduce locally
+1. reports/insights.md  — quick business summary & actions
+2. reports/transactions_dashboard.png  — transaction visuals
+3. sql-queries/1_create_tables.sql  — schema & field definitions
+4. datasets/  — sample CSVs to reproduce locally
 
-**Data:** 
+#### 🔐 Data & privacy note
 This repo includes **sample** data only. Full production datasets are not published here due to privacy. Contact me privately for controlled access if required.
 
-
-## Note
-> Full datasets are not included due to data privacy.
