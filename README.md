@@ -18,7 +18,7 @@ This project analyzes credit card transactions and customer demographics using
 5. Designed interactive Power BI dashboards
 
 ## Repo Structure
-credit-card-analytics/
+credit-card-transactions-customers-report/
 │
 ├── datasets/
 │   ├── credit_cards.csv      # Sample transaction data (privacy-safe)
