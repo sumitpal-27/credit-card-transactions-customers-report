@@ -15,7 +15,29 @@ This project analyzes credit card transactions and customer demographics using
 2. Imported transaction and customer CSV data  
 3. Cleaned and transformed data using Power Query  
 4. Created DAX measures for KPIs  
-5. Designed interactive Power BI dashboards  
+5. Designed interactive Power BI dashboards
+
+## Repo Structure
+credit-card-analytics/
+│
+├── datasets/
+│   ├── credit_cards.csv      # Sample transaction data (privacy-safe)
+│   ├── customers.csv         # Sample customer data (privacy-safe)
+│   └── README.md                    # Notes on data scope and privacy
+│
+├── sql-queries/
+│   ├── 1_create_tables.sql          # Database and table creation scripts
+│   ├── 2_import_data.sql            # CSV data import queries
+│   └── 3_add_updated_data.sql       # Incremental data load scripts
+│
+├── reports/
+│   ├── credit_card_dashboard.pbix   # Power BI report file
+│   ├── transactions_dashboard.png   # Transactions dashboard preview
+│   ├── customers_dashboard.png      # Customer dashboard preview
+│   ├── insights.md                  # Business insights & recommendations
+│
+├── README.md                        # Project overview, workflow, and navigation
+
 
 ## Key Dashboards
 ### Credit Card Transaction Report
@@ -30,5 +52,15 @@ This project analyzes credit card transactions and customer demographics using
 - Businessman and Graduate segments generate the highest revenue
 - Q4 shows peak revenue and transaction count
 
+**Strategic Recommendations**
+- Prioritize retention & upsell for Blue/Silver cards.  
+- Run regional pilots in TX/NY/CA with merchant offers.  
+- Incentivize chip usage (targeted cashback) to shift channel mix.  
+- Improve 30-day activation with onboarding incentives.
+
+**Data:** 
+This repo includes **sample** data only. Full production datasets are not published here due to privacy. Contact me privately for controlled access if required.
+
+
 ## Note
-Full datasets are not included due to data privacy.
+> Full datasets are not included due to data privacy.
