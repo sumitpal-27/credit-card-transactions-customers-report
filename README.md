@@ -22,7 +22,7 @@ This project analyzes credit card transactions and customer demographics using
 ![Transaction Report](reports/transactions_dashboard.png)
 
 ### Credit Card Customer Report
-![Customer Report](reports/customerss_dashboard.png)
+![Customer Report](reports/customers_dashboard.png)
 
 ## High-Level Insights
 - Blue card category contributes the highest revenue (~47M)
